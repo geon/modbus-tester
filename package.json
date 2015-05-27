@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node client.js"
+  },
+  "dependencies": {
+    "modbus-tcp": "~0.4.4",
+    "split": "^0.3.3"
+  }
+}
